@@ -9,7 +9,7 @@ My HCP Bridge is connected to the Hoermann motor with 5m flat data cable termina
 To create the model I used the [OpenSCAD - The Programmers Solid 3D CAD Modeller](https://openscad.org/)
 
 
-Feel free to modify the OpenSCAD source code of the [3D case](Hoerman-HCP_Bridge-case.stl).
+Feel free to modify the OpenSCAD [source code](Hoerman-HCP_Bridge-case.scad) of the [3D case](Hoerman-HCP_Bridge-case.stl).
 
 
 ## Electronic component
@@ -26,6 +26,7 @@ Feel free to modify the OpenSCAD source code of the [3D case](Hoerman-HCP_Bridge
 - 4P Screw PCB Terminal Block Connector
 - flat cable
 - RJ12 6P6C or 6P4C connector
+- some pins
 
 ## Project photos
 ![1](1.jpg) ![2](2.jpg) ![3](3.jpg) ![4](4.jpg) ![5](5.jpg) ![6](6.jpg) ![7](7.jpg)
